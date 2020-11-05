@@ -157,7 +157,7 @@ void reverse(Node<T> **head)
 }
 
 template<typename T>
-Node<T> *reverseReq(Node<T> **list, Node<T> *head)
+void reverseReq(Node<T> **head)
 {
     return nullptr;
 }
